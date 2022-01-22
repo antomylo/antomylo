@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antomylo
+- 👋 Hi, I’m Antonis Milonas
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning javascript,python,php
 - 💞️ I’m looking to collaborate on ...
