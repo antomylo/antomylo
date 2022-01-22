@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning javascript,python,php
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me antoniosmylonas98@gmail.com
 
 <!---
 antomylo/antomylo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
